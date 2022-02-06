@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Example ViewModel</string>
+    <string name="tip_your_text">Tip your text here</string>
+    <string name="text_button">Click here</string>
+</resources>
